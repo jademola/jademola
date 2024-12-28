@@ -8,7 +8,7 @@
 - ⚡ Fun fact: Also working on a photography portfolio so stay tuned.
 
 ## Tech Stack and Interests
-**Languages:** Java, Python, SQL and more.
-**DevTools:** Docker, Git, React.js and more
-**Interests:** Machine learning frameworks, Brain Computer Interfaces and other medical mapping software
+- **Languages:** Java, Python, SQL and more.
+- **DevTools:** Docker, Git, React.js and more
+- **Interests:** Machine learning frameworks, Brain Computer Interfaces and other medical mapping software
 
