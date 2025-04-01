@@ -8,7 +8,7 @@
 - 🆕 Extra: Also working on a photography portfolio so stay tuned.
 
 ## Tech Stack and Interests
-- **Languages:** Java, Python, SQL and more.
-- **DevTools:** Docker, Git, React.js and more
+- **Languages:** Java, Python, C and more.
+- **DevTools:** Docker, Git, and more
 - **Interests:** Machine learning frameworks, Sports Science and other medical mapping software
 
