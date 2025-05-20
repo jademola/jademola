@@ -5,7 +5,7 @@
 - 💬 Ask me about anything, I would love to connect with like-minded individuals or teams.
 - ⌨️ Comfortable using Linux systems
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jimi-ademola).
-- 🆕 Extra: Also working on a photography portfolio so stay tuned.
+- 🆕 Extra: Also working on a photography portfolio so stay tuned. [see here](https://www.instagram.com/capturedbyjimi)
 
 ## Tech Stack and Interests
 - **Languages:** Java, Python, C and more.
