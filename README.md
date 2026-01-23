@@ -8,6 +8,6 @@
 - 🆕 Extra: Also working on builidng a comprehensive photography portfolio so stay tuned. [see here](https://www.instagram.com/capturedbyjimi)
 
 ## Tech Stack and Interests
-- **Most Used Languages:** Java, Python, C and more.
+- **Most Used Languages:** Python, Java, TypeScript and more.
 - **Interests:** Machine learning frameworks, Sports Science & Analytics and other medical mapping software (Brain-Computer Interfaces etc.)
 
