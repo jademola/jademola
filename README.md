@@ -5,7 +5,7 @@
 - 💬 Ask me about anything, I would love to connect with like-minded individuals or teams.
 - ⌨️ Most comfortable using Linux / Unix-based systems
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jimi-ademola).
-- [📸](https://www.photos.jimiademola.com) ← my photos
+- [📸](https://photos.jimiademola.com) ← my photos
 
 ## Tech Stack and Interests
 - **Most Used Languages:** Python, Java, TypeScript and more.
